@@ -1,0 +1,107 @@
+{
+  "Movies": [
+    {
+      "title": "Spider-Man",
+      "slug": "spider-man",
+      "synopsis": "After being bitten by a genetically-modified spider, a shy teenager gains spider-like abilities that he uses to fight injustice as a masked superhero and face a vengeful enemy.",
+      "trailerUrl": "t06RUxPbp_c",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_SX300.jpg",
+      "rating": 7.4,
+      "genreId": 2,
+      "mongoId": "635a0102c76a99c24dab9ccd"
+    },
+    {
+      "title": "Deadpool",
+      "slug": "deadpool",
+      "synopsis": "A wisecracking mercenary gets experimented on and becomes immortal but ugly, and sets out to track down the man who ruined his looks.",
+      "trailerUrl": "gtTfd6tISfw",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+      "rating": 8,
+      "genreId": 2,
+      "mongoId": "635a0102c76a99c24dab9ccd"
+    },
+    {
+      "title": "Death Wish",
+      "slug": "death-wish",
+      "synopsis": "r. Paul Kersey is an experienced trauma surgeon, a man who has spent his life saving lives. After an attack on his family, Paul embarks on his own mission for justice.",
+      "trailerUrl": "jsPLw7I06eY",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTkzNjU3MjE0MF5BMl5BanBnXkFtZTgwNTIyNDk0NDM@._V1_SX300.jpg",
+      "rating": 6.3,
+      "genreId": 1,
+      "mongoId": "635a0102c76a99c24dab9ccd"
+    },
+    {
+      "title": "The Italian Job",
+      "slug": "the-italian-job",
+      "synopsis": "After being betrayed and left for dead in Italy, Charlie Croker and his team plan an elaborate gold heist against their former ally.",
+      "trailerUrl": "uw6jY3VuOcI",
+      "imgUrl": "https://asset.kompas.com/crops/ZlLR6Y4AXhRf0LgJFiTpWopf-I4=/0x79:1600x1146/750x500/data/photo/2020/11/13/5fae7798ef3f3.jpg",
+      "rating": 7,
+      "genreId": 1,
+      "mongoId": "635a0102c76a99c24dab9ccd"
+    },
+    {
+      "title": "The Tourist",
+      "slug": "the-tourist",
+      "synopsis": "Revolves around Frank, an American tourist visiting Italy to mend a broken heart. Elise is an extraordinary woman who deliberately crosses his path.",
+      "trailerUrl": "5XtbLezJtMg",
+      "imgUrl": "https://m.media-amazon.com/images/M/MV5BMTMyMzc3OTkwMV5BMl5BanBnXkFtZTcwMjc0MTgwNA@@._V1_SX300.jpg",
+      "rating": 6,
+      "genreId": 3,
+      "mongoId": "635a0102c76a99c24dab9ccd"
+    }
+  ],
+  "Genre": [
+    {
+      "name": "action"
+    },
+    {
+      "name": "science-fiction"
+    },
+    {
+      "name": "romance"
+    }
+  ],
+  "Casts": [
+    {
+      "movieId": 1,
+      "name": "Tom Holland",
+      "profilePict": "https://www.gamereactor.asia/media/92/tomhollandapontado_2099243.jpg"
+    },
+    {
+      "movieId": 2,
+      "name": "Tom Holland",
+      "profilePict": "https://www.gamereactor.asia/media/92/tomhollandapontado_2099243.jpg"
+    },
+    {
+      "movieId": 2,
+      "name": "Ryan Reynolds",
+      "profilePict": "https://upload.wikimedia.org/wikipedia/commons/1/14/Deadpool_2_Japan_Premiere_Red_Carpet_Ryan_Reynolds_%28cropped%29.jpg"
+    },
+    {
+      "movieId": 3,
+      "name": "Ryan Reynolds",
+      "profilePict": "https://upload.wikimedia.org/wikipedia/commons/1/14/Deadpool_2_Japan_Premiere_Red_Carpet_Ryan_Reynolds_%28cropped%29.jpg"
+    },
+    {
+      "movieId": 3,
+      "name": "Bruce willis",
+      "profilePict": "https://cdn.britannica.com/48/194248-050-4EE825CF/Bruce-Willis-2013.jpg"
+    },
+    {
+      "movieId": 4,
+      "name": "Jason Statham",
+      "profilePict": "https://m.media-amazon.com/images/M/MV5BMTkxMzk2MDkwOV5BMl5BanBnXkFtZTcwMDAxODQwMg@@._V1_UX178_CR0,0,178,264_AL_.jpg"
+    },
+    {
+      "movieId": 5,
+      "name": "Angelina Jolie",
+      "profilePict": "https://assets.pikiran-rakyat.com/crop/82x27:716x491/x/photo/2021/08/21/340177163.jpg"
+    },
+    {
+      "movieId": 5,
+      "name": "Jason Statham",
+      "profilePict": "https://m.media-amazon.com/images/M/MV5BMTkxMzk2MDkwOV5BMl5BanBnXkFtZTcwMDAxODQwMg@@._V1_UX178_CR0,0,178,264_AL_.jpg"
+    }
+  ]
+}
